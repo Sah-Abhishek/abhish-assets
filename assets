@@ -1,0 +1,12 @@
+{
+    "name": "Abhis Token",
+    "symbol": "ABT",
+    "description": "First token by me",
+    "image": "https://pnganime.com/web/image-thumbnails/511/867-md.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Climate"
+      }
+    ]
+  }
